@@ -1,4 +1,5 @@
-<img src="https://jfstech.uk/logo.svg" alt="JFS Tech Logo" width="20"/>
+<img src="https://jfstech.uk/logo.svg" alt="JFS Tech Logo" width=60"/>
+
 ## Welcome to JFS Tech on GitHub
 
 Mostly all of our projects are private, but you can find our forked dependencies that we use here. Documentation for the JFS Tech API can be found [here](https://docs.jfstech.uk/).
