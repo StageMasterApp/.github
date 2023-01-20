@@ -1,4 +1,4 @@
-<img src="https://jfstech.uk/logo.svg" alt="JFS Tech Logo" width=60"/>
+<img src="https://jfstech.uk/logo.svg" alt="JFS Tech Logo" width="60"/>
 
 ## Welcome to JFS Tech on GitHub
 
