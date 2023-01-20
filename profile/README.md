@@ -1,1 +1,1 @@
-![JFS Tech Logo](https://jfstech.uk/logo.svg)
+<img src="https://jfstech.uk/logo.svg" alt="JFS Tech Logo" width="100"/>
