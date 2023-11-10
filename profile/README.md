@@ -1,9 +1,13 @@
-<img src="https://jfstech.uk/logo.svg" alt="JFS Tech Logo" width="60"/>
+<img src="https://stagemaster.uk/_static/logo.svg" alt="StageMaster Logo" width="60"/>
 
-## Welcome to JFS Tech's GitHub page!
+## Welcome to StageMaster's GitHub page!
 
-You can access our website by clicking [here](https://jfstech.uk), but please note that this is a private project and requires a JFS email for access. If you're interested in learning more about the systems we've developed, feel free to reach out to us using the email address provided below.
+You can access our website by clicking [here](https://stagemaster.uk), but please note we are currently still in development. You can signup for the waitlist on our website. We are currently not open source however we are debating releasing code.
 
-One of our exciting projects is ScriptMate, a script writing platform that you can check out [here](https://script.jfstech.uk/). Although most of our projects are private, you can still find the dependencies we use on this page. Additionally, you can find documentation for the JFS Tech API at [https://docs.jfstech.uk/](https://docs.jfstech.uk/).
+Some upcoming products include:
+- Props Management
+- Lighting and Sound Cue Management
+- Script Writing Application
+... More unannounced products soon! ...
 
-If you have any questions or would like to contact us, please feel free to email us at info@jfstech.uk.
+If you have any questions or would like to contact us, please feel free to email us at info@stagemaster.uk.
