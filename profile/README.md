@@ -8,6 +8,6 @@ Some upcoming products include:
 - Props Management
 - Lighting and Sound Cue Management
 - Script Writing Application
-... More unannounced products soon! ...
+- More unannounced products soon! ...
 
 If you have any questions or would like to contact us, please feel free to email us at info@stagemaster.uk.
